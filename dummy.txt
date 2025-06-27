@@ -1,1 +1,1 @@
-Change the dummy file content
+This is dummy file
